@@ -1,3 +1,6 @@
+
+// NUMBER GUESSING GAME CODE
+
 console.log("Welcome to the world of games");
 
 while (true) {
@@ -11,3 +14,10 @@ while (true) {
         console.log("You guessed the number: " , number , " but the number was: " , randomNumber);
     }
 }
+
+
+
+
+
+
+
